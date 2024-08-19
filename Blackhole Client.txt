@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         blackhole for bloxd.io
+// @name         Bloxing of the IO hacks
 // @version      0.0.9
-// @description  Best free script atm
-// @author       Skidmus
+// @description  Best bloxer io script
+// @author       Joshua3611
 // @match        *://bloxd.io/*
 // @match        *://*.bloxdhop.io/*
 // @match        *://*.bloxdk12.com/*
